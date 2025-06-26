@@ -76,7 +76,9 @@ This C++ file management program is a practical demonstration of file handling o
 
 Let me know if you'd like a version with enhancements like input validation, looping, or file existence checks.
 
+OUTPUT
 
+![Image](https://github.com/user-attachments/assets/a68292db-35ed-4b03-bd8c-713f04d466b1)
 
 
 
