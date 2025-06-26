@@ -2,12 +2,16 @@
 
 COMPANY NAME:CODETECH IT SOLUTION
 
-NAME VEDVYAS KUMAR
+NAME: VEDVYAS KUMAR
  
- INTERN ID:CT04DF160
+  INTERN ID:CT04DF160
+  
 DOMAIN:C++
+
 MENTOR:NEELA SANTOSH
+
 #DESCRIPTION
+
 C++ File Management Program – Description and Concepts
 This C++ program is a simple yet functional file management tool that allows users to perform three key operations on text files: writing, reading, and appending data. It utilizes fundamental file handling concepts in C++, combined with basic input/output operations, to create a console-based application. This type of program is commonly used in real-world applications where managing data through file storage is essential.
 
